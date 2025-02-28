@@ -55,4 +55,4 @@ EMAIL_HOST_PASSWORD = 'your email password'
 ```
 Thanks ❤ Happy Coding 🎉
 <br>
-Author: Hossain Chisty
+Author:Sabbir Ahmed (221002398)
