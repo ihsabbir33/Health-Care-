@@ -55,4 +55,5 @@ EMAIL_HOST_PASSWORD = 'your email password'
 ```
 Thanks
 <br>
-Author:Sabbir Ahmed (221002398)
+Author:Sabbir Ahmed (221002398) <br>
+Green University Of Bangladesh
