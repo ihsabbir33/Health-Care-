@@ -53,6 +53,6 @@ EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'your email'
 EMAIL_HOST_PASSWORD = 'your email password'
 ```
-Thanks ❤ Happy Coding 🎉
+Thanks
 <br>
 Author:Sabbir Ahmed (221002398)
